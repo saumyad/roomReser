@@ -1,0 +1,76 @@
+body{
+	background-color:#b0c4de;
+	background-image: url('back21.png');
+	background-repeat: repeat;
+	font-color:#FFFFFF;
+	margin-left:auto;
+	margin-right:auto;
+
+
+}
+#head2 {
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24pt;
+}
+#form
+{
+	text-align: center;
+
+}
+p.welcome {
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-size:24pt;/*color: #FFFFFF;
+			 background-color:333366;*/
+}
+table.center
+{	
+	padding:16px;
+	font-size:14pt;
+	margin-left:auto;
+	margin-right:auto;
+}
+.center
+{	
+	margin-left:auto;
+	margin-right:auto;
+}
+h2.center
+{
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+}
+table.homeText
+{
+	margin-left:auto;
+	margin-right:auto;
+}
+form.center
+{
+	margin-left:auto;
+	margin-right:auto;
+}
+#requests
+{
+	padding:10px;
+	margin-left:auto;
+	margin-right:auto;
+	border:2px;
+}
+
+#search
+{
+	width:100%;
+	text-align:center;
+	background-color:#212121;
+	background-position:50% 50%;
+}
+#know
+{
+	width:100%;
+	text-align:center;
+	background-position:50% 50%;
+
+}
